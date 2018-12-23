@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup", "Warmup\Warmup\Warmup.csproj", "{97C721BA-7B5D-4066-ABF0-22167C225FE2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WarmupContent", "Warmup\WarmupContent\WarmupContent.contentproj", "{0C2DD3F7-4567-4FF7-90B6-0AD5FA39F55F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C721BA-7B5D-4066-ABF0-22167C225FE2}.Debug|x86.ActiveCfg = Debug|x86
+		{97C721BA-7B5D-4066-ABF0-22167C225FE2}.Debug|x86.Build.0 = Debug|x86
+		{97C721BA-7B5D-4066-ABF0-22167C225FE2}.Release|x86.ActiveCfg = Release|x86
+		{97C721BA-7B5D-4066-ABF0-22167C225FE2}.Release|x86.Build.0 = Release|x86
+		{0C2DD3F7-4567-4FF7-90B6-0AD5FA39F55F}.Debug|x86.ActiveCfg = Debug|x86
+		{0C2DD3F7-4567-4FF7-90B6-0AD5FA39F55F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

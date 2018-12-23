@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwagCapitalistv2.0", "SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0.csproj", "{D0B3544D-79F0-4770-A4CF-25A517151131}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SwagCapitalistv2.0Content", "SwagCapitalistv2.0\SwagCapitalistv2.0Content\SwagCapitalistv2.0Content.contentproj", "{777BBC7D-B5D8-4FB5-AAFC-09001D126565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B3544D-79F0-4770-A4CF-25A517151131}.Debug|x86.ActiveCfg = Debug|x86
+		{D0B3544D-79F0-4770-A4CF-25A517151131}.Debug|x86.Build.0 = Debug|x86
+		{D0B3544D-79F0-4770-A4CF-25A517151131}.Release|x86.ActiveCfg = Release|x86
+		{D0B3544D-79F0-4770-A4CF-25A517151131}.Release|x86.Build.0 = Release|x86
+		{777BBC7D-B5D8-4FB5-AAFC-09001D126565}.Debug|x86.ActiveCfg = Debug|x86
+		{777BBC7D-B5D8-4FB5-AAFC-09001D126565}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

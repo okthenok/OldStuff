@@ -1,0 +1,9 @@
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE BOUNCE\EVERYBODY DO THE BOUNCE\bin\Debug\EVERYBODY DO THE BOUNCE.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE BOUNCE\EVERYBODY DO THE BOUNCE\bin\Debug\EVERYBODY DO THE BOUNCE.pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE BOUNCE\EVERYBODY DO THE BOUNCE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE BOUNCE\EVERYBODY DO THE BOUNCE\obj\x86\Debug\Bouncing_Circle.Form1.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE BOUNCE\EVERYBODY DO THE BOUNCE\obj\x86\Debug\Bouncing_Circle.Properties.Resources.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE BOUNCE\EVERYBODY DO THE BOUNCE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE BOUNCE\EVERYBODY DO THE BOUNCE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE BOUNCE\EVERYBODY DO THE BOUNCE\obj\x86\Debug\EVERYBODY DO THE BOUNCE.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE BOUNCE\EVERYBODY DO THE BOUNCE\obj\x86\Debug\EVERYBODY DO THE BOUNCE.pdb

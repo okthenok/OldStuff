@@ -1,0 +1,5 @@
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\Login to SOMETHING IN THE UNIVERSE\Login to SOMETHING IN THE UNIVERSE\bin\Debug\Login to SOMETHING IN THE UNIVERSE.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\Login to SOMETHING IN THE UNIVERSE\Login to SOMETHING IN THE UNIVERSE\bin\Debug\Login to SOMETHING IN THE UNIVERSE.pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\Login to SOMETHING IN THE UNIVERSE\Login to SOMETHING IN THE UNIVERSE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\Login to SOMETHING IN THE UNIVERSE\Login to SOMETHING IN THE UNIVERSE\obj\x86\Debug\Login to SOMETHING IN THE UNIVERSE.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\Login to SOMETHING IN THE UNIVERSE\Login to SOMETHING IN THE UNIVERSE\obj\x86\Debug\Login to SOMETHING IN THE UNIVERSE.pdb

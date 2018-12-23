@@ -1,0 +1,5 @@
+Content\SwordKirby.xnb
+Content\Kirby Ball.xnb
+Content\WaddleDee.xnb
+Content\font.xnb
+Content\RedCircle.xnb

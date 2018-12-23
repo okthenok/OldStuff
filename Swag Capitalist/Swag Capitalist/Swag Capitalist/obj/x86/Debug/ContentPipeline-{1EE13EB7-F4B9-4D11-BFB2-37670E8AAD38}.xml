@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>PogChamp.png</Source>
+      <Name>PogChamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\PogChamp.xnb</Output>
+      <Time>2015-10-03T14:21:32.8571062-07:00</Time>
+    </Item>
+    <Item>
+      <Source>kappa.png</Source>
+      <Name>kappa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\kappa.xnb</Output>
+      <Time>2015-10-24T13:16:21.432118-07:00</Time>
+    </Item>
+    <Item>
+      <Source>failfish.png</Source>
+      <Name>failfish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\failfish.xnb</Output>
+      <Time>2015-10-03T14:23:07.1491777-07:00</Time>
+    </Item>
+    <Item>
+      <Source>residentsleeper.png</Source>
+      <Name>residentsleeper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\residentsleeper.xnb</Output>
+      <Time>2015-10-03T14:27:37.6557016-07:00</Time>
+    </Item>
+    <Item>
+      <Source>4head.png</Source>
+      <Name>4head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\4head.xnb</Output>
+      <Time>2015-10-03T14:29:41.5547799-07:00</Time>
+    </Item>
+    <Item>
+      <Source>biblethump.png</Source>
+      <Name>biblethump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\biblethump.xnb</Output>
+      <Time>2015-10-10T13:04:27.7020811-07:00</Time>
+    </Item>
+    <Item>
+      <Source>abeFace.PNG</Source>
+      <Name>abeFace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\abeFace.xnb</Output>
+      <Time>2015-10-10T13:07:38.0881104-07:00</Time>
+    </Item>
+    <Item>
+      <Source>babyrage.png</Source>
+      <Name>babyrage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\babyrage.xnb</Output>
+      <Time>2015-10-10T13:08:45.0302981-07:00</Time>
+    </Item>
+    <Item>
+      <Source>smorc.png</Source>
+      <Name>smorc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\smorc.xnb</Output>
+      <Time>2015-10-10T13:09:59.3052717-07:00</Time>
+    </Item>
+    <Item>
+      <Source>swagBack.png</Source>
+      <Name>swagBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\swagBack.xnb</Output>
+      <Time>2015-10-31T13:43:21.1344403-07:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2015-10-10T14:31:33.3999395-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-10-24T13:03:00.8663283-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1EE13EB7-F4B9-4D11-BFB2-37670E8AAD38}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag CapitalistContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-23T00:11:03.2622041-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,18 @@
+c:\users\visitordl5\documents\visual studio 2015\Projects\Recursive Sorting\Recursive Sorting\bin\Debug\Recursive Sorting.exe.config
+c:\users\visitordl5\documents\visual studio 2015\Projects\Recursive Sorting\Recursive Sorting\bin\Debug\Recursive Sorting.exe
+c:\users\visitordl5\documents\visual studio 2015\Projects\Recursive Sorting\Recursive Sorting\bin\Debug\Recursive Sorting.pdb
+c:\users\visitordl5\documents\visual studio 2015\Projects\Recursive Sorting\Recursive Sorting\obj\Debug\Recursive Sorting.csprojResolveAssemblyReference.cache
+c:\users\visitordl5\documents\visual studio 2015\Projects\Recursive Sorting\Recursive Sorting\obj\Debug\Recursive Sorting.exe
+c:\users\visitordl5\documents\visual studio 2015\Projects\Recursive Sorting\Recursive Sorting\obj\Debug\Recursive Sorting.pdb
+\\gmrshared\Xfers\Students\Blue Class\JohnnyPan\Recursive Sorting\Recursive Sorting\bin\Debug\Recursive Sorting.exe.config
+\\gmrshared\Xfers\Students\Blue Class\JohnnyPan\Recursive Sorting\Recursive Sorting\obj\Debug\Recursive Sorting.exe
+\\gmrshared\Xfers\Students\Blue Class\JohnnyPan\Recursive Sorting\Recursive Sorting\obj\Debug\Recursive Sorting.pdb
+\\gmrshared\Xfers\Students\Blue Class\JohnnyPan\Recursive Sorting\Recursive Sorting\bin\Debug\Recursive Sorting.exe
+\\gmrshared\Xfers\Students\Blue Class\JohnnyPan\Recursive Sorting\Recursive Sorting\bin\Debug\Recursive Sorting.pdb
+\\gmrshared\Xfers\Students\Blue Class\JohnnyPan\Recursive Sorting\Recursive Sorting\obj\Debug\Recursive Sorting.csprojResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\Recursive Sorting\Recursive Sorting\bin\Debug\Recursive Sorting.exe.config
+C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\Recursive Sorting\Recursive Sorting\obj\Debug\Recursive Sorting.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\Recursive Sorting\Recursive Sorting\obj\Debug\Recursive Sorting.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\Recursive Sorting\Recursive Sorting\bin\Debug\Recursive Sorting.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\Recursive Sorting\Recursive Sorting\bin\Debug\Recursive Sorting.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\Recursive Sorting\Recursive Sorting\obj\Debug\Recursive Sorting.csprojResolveAssemblyReference.cache

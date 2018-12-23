@@ -1,0 +1,9 @@
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\DancingButtonGameYay\DancingButtonGameYay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\DancingButtonGameYay\DancingButtonGameYay\obj\x86\Debug\WindowsFormsApplication1.WinForms1.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\DancingButtonGameYay\DancingButtonGameYay\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\DancingButtonGameYay\DancingButtonGameYay\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\DancingButtonGameYay\DancingButtonGameYay\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\DancingButtonGameYay\DancingButtonGameYay\bin\Debug\DancingButtonGameYay.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\DancingButtonGameYay\DancingButtonGameYay\bin\Debug\DancingButtonGameYay.pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\DancingButtonGameYay\DancingButtonGameYay\obj\x86\Debug\DancingButtonGameYay.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\DancingButtonGameYay\DancingButtonGameYay\obj\x86\Debug\DancingButtonGameYay.pdb

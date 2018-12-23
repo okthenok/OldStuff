@@ -1,0 +1,8 @@
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\introtoxna\introtoxna\introtoxna\bin\x86\Debug\Content\kirby.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\introtoxna\introtoxna\introtoxna\bin\x86\Debug\introtoxna.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\introtoxna\introtoxna\introtoxna\bin\x86\Debug\introtoxna.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\introtoxna\introtoxna\introtoxna\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\introtoxna\introtoxna\introtoxna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\introtoxna\introtoxna\introtoxna\obj\x86\Debug\introtoxna.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\introtoxna\introtoxna\introtoxna\obj\x86\Debug\introtoxna.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\introtoxna\introtoxna\introtoxna\bin\x86\Debug\Content\sadkirby.xnb

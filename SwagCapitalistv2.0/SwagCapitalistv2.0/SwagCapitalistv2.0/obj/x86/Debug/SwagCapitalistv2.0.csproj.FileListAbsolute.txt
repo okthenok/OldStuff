@@ -1,0 +1,20 @@
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\4head.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\abeFace.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\babyrage.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\biblethump.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\cursor.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\failfish.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\kappa.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\smorc.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\swagBack.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\PogChamp.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\residentsleeper.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\SwagCapitalistv2.0.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\SwagCapitalistv2.0.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\obj\x86\Debug\SwagCapitalistv2.0.csprojResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\obj\x86\Debug\SwagCapitalistv2.0.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\obj\x86\Debug\SwagCapitalistv2.0.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\Swag Instructions.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\SwagCapitalistv2.0\SwagCapitalistv2.0\SwagCapitalistv2.0\bin\x86\Debug\Content\Swag Rebirth.xnb

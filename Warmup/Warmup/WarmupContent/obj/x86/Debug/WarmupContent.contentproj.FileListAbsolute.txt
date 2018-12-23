@@ -1,0 +1,2 @@
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\WarmupContent\obj\x86\Debug\WarmupContent.contentprojResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\WarmupContent\obj\x86\Debug\WarmupContent.contentprojResolveAssemblyReference.cache

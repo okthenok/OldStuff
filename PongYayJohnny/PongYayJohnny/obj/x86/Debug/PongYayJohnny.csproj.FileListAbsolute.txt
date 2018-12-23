@@ -1,0 +1,9 @@
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\PongYayJohnny\PongYayJohnny\bin\Debug\PongYayJohnny.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\PongYayJohnny\PongYayJohnny\bin\Debug\PongYayJohnny.pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\PongYayJohnny\PongYayJohnny\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\PongYayJohnny\PongYayJohnny\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\PongYayJohnny\PongYayJohnny\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\PongYayJohnny\PongYayJohnny\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\PongYayJohnny\PongYayJohnny\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\PongYayJohnny\PongYayJohnny\obj\x86\Debug\PongYayJohnny.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\PongYayJohnny\PongYayJohnny\obj\x86\Debug\PongYayJohnny.pdb

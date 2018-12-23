@@ -1,0 +1,9 @@
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\MasterMind Johnny YAY\MasterMind Johnny YAY\bin\Debug\MasterMind Johnny YAY.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\MasterMind Johnny YAY\MasterMind Johnny YAY\bin\Debug\MasterMind Johnny YAY.pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\MasterMind Johnny YAY\MasterMind Johnny YAY\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\MasterMind Johnny YAY\MasterMind Johnny YAY\obj\x86\Debug\WindowsFormsApplication1.MasterMindWindow.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\MasterMind Johnny YAY\MasterMind Johnny YAY\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\MasterMind Johnny YAY\MasterMind Johnny YAY\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\MasterMind Johnny YAY\MasterMind Johnny YAY\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\MasterMind Johnny YAY\MasterMind Johnny YAY\obj\x86\Debug\MasterMind Johnny YAY.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\MasterMind Johnny YAY\MasterMind Johnny YAY\obj\x86\Debug\MasterMind Johnny YAY.pdb

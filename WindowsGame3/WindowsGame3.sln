@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame3", "WindowsGame3\WindowsGame3\WindowsGame3.csproj", "{00087DDF-ECBA-405D-B188-2CDE0821CF9B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WindowsGame3Content", "WindowsGame3\WindowsGame3Content\WindowsGame3Content.contentproj", "{48DEA6DA-4615-4DCE-98EF-747A95FC640D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00087DDF-ECBA-405D-B188-2CDE0821CF9B}.Debug|x86.ActiveCfg = Debug|x86
+		{00087DDF-ECBA-405D-B188-2CDE0821CF9B}.Debug|x86.Build.0 = Debug|x86
+		{00087DDF-ECBA-405D-B188-2CDE0821CF9B}.Release|x86.ActiveCfg = Release|x86
+		{00087DDF-ECBA-405D-B188-2CDE0821CF9B}.Release|x86.Build.0 = Release|x86
+		{48DEA6DA-4615-4DCE-98EF-747A95FC640D}.Debug|x86.ActiveCfg = Debug|x86
+		{48DEA6DA-4615-4DCE-98EF-747A95FC640D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

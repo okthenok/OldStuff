@@ -1,0 +1,7 @@
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\pongxna\pongxna\pongxna\bin\x86\Debug\Content\sadkirby.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\pongxna\pongxna\pongxna\bin\x86\Debug\pongxna.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\pongxna\pongxna\pongxna\bin\x86\Debug\pongxna.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\pongxna\pongxna\pongxna\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\pongxna\pongxna\pongxna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\pongxna\pongxna\pongxna\obj\x86\Debug\pongxna.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\pongxna\pongxna\pongxna\obj\x86\Debug\pongxna.pdb

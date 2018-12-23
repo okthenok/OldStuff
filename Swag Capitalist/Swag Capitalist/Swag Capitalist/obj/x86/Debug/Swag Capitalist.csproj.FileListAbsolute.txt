@@ -1,0 +1,18 @@
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\PogChamp.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\kappa.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\failfish.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\residentsleeper.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\4head.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\biblethump.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\abeFace.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\babyrage.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\smorc.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Swag Capitalist.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Swag Capitalist.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\obj\x86\Debug\Swag Capitalist.csprojResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\obj\x86\Debug\Swag Capitalist.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\obj\x86\Debug\Swag Capitalist.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\swagBack.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\cursor.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Swag Capitalist\Swag Capitalist\Swag Capitalist\bin\x86\Debug\Content\SpriteFont1.xnb

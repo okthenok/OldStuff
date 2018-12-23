@@ -1,0 +1,9 @@
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE FACE\EVERYBODY DO THE FACE\bin\Debug\EVERYBODY DO THE FACE.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE FACE\EVERYBODY DO THE FACE\bin\Debug\EVERYBODY DO THE FACE.pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE FACE\EVERYBODY DO THE FACE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE FACE\EVERYBODY DO THE FACE\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE FACE\EVERYBODY DO THE FACE\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE FACE\EVERYBODY DO THE FACE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE FACE\EVERYBODY DO THE FACE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE FACE\EVERYBODY DO THE FACE\obj\x86\Debug\EVERYBODY DO THE FACE.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\EVERYBODY DO THE FACE\EVERYBODY DO THE FACE\obj\x86\Debug\EVERYBODY DO THE FACE.pdb

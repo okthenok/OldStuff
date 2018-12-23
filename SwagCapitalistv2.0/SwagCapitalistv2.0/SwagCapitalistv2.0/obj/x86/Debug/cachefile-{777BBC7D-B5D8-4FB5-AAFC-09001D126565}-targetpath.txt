@@ -1,0 +1,14 @@
+Content\4head.xnb
+Content\abeFace.xnb
+Content\babyrage.xnb
+Content\biblethump.xnb
+Content\cursor.xnb
+Content\failfish.xnb
+Content\kappa.xnb
+Content\smorc.xnb
+Content\swagBack.xnb
+Content\PogChamp.xnb
+Content\residentsleeper.xnb
+Content\SpriteFont1.xnb
+Content\Swag Instructions.xnb
+Content\Swag Rebirth.xnb

@@ -1,0 +1,20 @@
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Warmup.exe
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Warmup.pdb
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\obj\x86\Debug\Warmup.exe
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\obj\x86\Debug\Warmup.pdb
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Content\SwordKirby.xnb
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Content\WaddleDee.xnb
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Content\Kirby Ball.xnb
+C:\Users\VisitorDL10\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\obj\x86\Debug\Warmup.csprojResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Content\SwordKirby.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Content\Kirby Ball.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Content\WaddleDee.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Warmup.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Warmup.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\obj\x86\Debug\Warmup.csprojResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\obj\x86\Debug\Warmup.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\obj\x86\Debug\Warmup.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Content\font.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Warmup\Warmup\Warmup\bin\x86\Debug\Content\RedCircle.xnb

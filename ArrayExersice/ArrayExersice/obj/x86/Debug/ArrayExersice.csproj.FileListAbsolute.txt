@@ -1,0 +1,10 @@
+C:\Users\JohnnyPan\AppData\Local\Temporary Projects\ArrayExersice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\AppData\Local\Temporary Projects\ArrayExersice\bin\Debug\ArrayExersice.exe
+C:\Users\JohnnyPan\AppData\Local\Temporary Projects\ArrayExersice\bin\Debug\ArrayExersice.pdb
+C:\Users\JohnnyPan\AppData\Local\Temporary Projects\ArrayExersice\obj\x86\Debug\ArrayExersice.exe
+C:\Users\JohnnyPan\AppData\Local\Temporary Projects\ArrayExersice\obj\x86\Debug\ArrayExersice.pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\ArrayExersice\ArrayExersice\obj\x86\Debug\ArrayExersice.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\ArrayExersice\ArrayExersice\obj\x86\Debug\ArrayExersice.pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\ArrayExersice\ArrayExersice\bin\Debug\ArrayExersice.exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\ArrayExersice\ArrayExersice\bin\Debug\ArrayExersice.pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\ArrayExersice\ArrayExersice\obj\x86\Debug\ResolveAssemblyReference.cache

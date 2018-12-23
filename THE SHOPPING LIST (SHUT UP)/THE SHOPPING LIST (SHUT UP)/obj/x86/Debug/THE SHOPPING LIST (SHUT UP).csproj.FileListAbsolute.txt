@@ -1,0 +1,5 @@
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\THE SHOPPING LIST (SHUT UP)\THE SHOPPING LIST (SHUT UP)\bin\Debug\THE SHOPPING LIST (SHUT UP).exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\THE SHOPPING LIST (SHUT UP)\THE SHOPPING LIST (SHUT UP)\bin\Debug\THE SHOPPING LIST (SHUT UP).pdb
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\THE SHOPPING LIST (SHUT UP)\THE SHOPPING LIST (SHUT UP)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\THE SHOPPING LIST (SHUT UP)\THE SHOPPING LIST (SHUT UP)\obj\x86\Debug\THE SHOPPING LIST (SHUT UP).exe
+C:\Users\JohnnyPan\documents\visual studio 2010\Projects\THE SHOPPING LIST (SHUT UP)\THE SHOPPING LIST (SHUT UP)\obj\x86\Debug\THE SHOPPING LIST (SHUT UP).pdb

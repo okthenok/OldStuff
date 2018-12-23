@@ -1,0 +1,19 @@
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\Ball.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\Platform.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\Brick.xnb
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.csprojResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\JohnnyPan\Documents\Visual Studio 2010\Projects\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
